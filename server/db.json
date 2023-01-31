@@ -1,0 +1,127 @@
+{
+  "subscriptions": [
+    {
+      "sub": {
+        "endpoint": "https://fcm.googleapis.com/fcm/send/cTZAgy8cojc:APA91bGVURLQIM6YZ0OjCGzhCiRFNhIGPfOLGFIrSS7XIbyFZzyLLqKtfCrmdIZ86Gl3iKimOQM11fvJikGCRtU3Q9GKAVnGChg9g3qB5wDTQyrf8h-Canp2VVTisDR1lA97gcy5l5LE",
+        "expirationTime": null,
+        "keys": {
+          "p256dh": "BMFFwkahYOTsPXZr-7mBP1oOHtxhAJuUw4R2lHxOw7hjLyv4KeJeJ64miobwHEJMIZ_RKu5E2sNVKJmYIzNrXkc",
+          "auth": "CMwdX-yFIdBRq4yLNZEquw"
+        }
+      },
+      "userId": 1076859
+    },
+    {
+      "sub": {
+        "endpoint": "https://fcm.googleapis.com/fcm/send/dP1Ztkk77pE:APA91bERiG8SybKfpeWuc7piFEd_4vusBY7yfruleCEgPCWKPDs5PqKvhWxKZYG6W8rNuiZ9v-yXQ2HxCt87FiFMCyj_2YU_eIHf5zLPWjI5Wyx-P50DXQ6gMY6qbdh2wWvbsIIjLkCL",
+        "expirationTime": null,
+        "keys": {
+          "p256dh": "BO2BDHxLEpabWoc_d7PxsDesJ-6F9sF8HPrrNaL-YULq6LqOjfAipm6oS7oHdEjBKi0aoJ3CD6mNDhiADsbmPBc",
+          "auth": "Nw--8mVBPzDXhWH1L7sBQA"
+        }
+      },
+      "userId": 1076859
+    },
+    {
+      "sub": {
+        "endpoint": "https://fcm.googleapis.com/fcm/send/eV1p0hsiUOE:APA91bGV1h5xDraMLLgcFNAVfF6gpNS3EaArFQASsbMphZFn3mX22-AeU8kXuH1wD5-AuWeJyANZrOlaK_C-7QnhHBUVq0UT0rafYzZjj-F-txvJErGIFx5ntwUo42YLWzWFVKtw58I7",
+        "expirationTime": null,
+        "keys": {
+          "p256dh": "BEWt4ggRzd0FVT2JyipUS9l7wOaI0FpUWVQ_jhQkyepeAg6dIibf8zi1djtrVeXyaD-YbQvNfJnGS34AM447jxA",
+          "auth": "ooZFocZ8Bh-Ch1USJJnn_Q"
+        }
+      },
+      "userId": 1116220
+    }
+  ],
+  "users": [
+    {
+      "id": 1116220,
+      "name": "Jan",
+      "lastname": "Kowalski",
+      "login": "123",
+      "password": "123"
+    },
+    {
+      "id": 1076859,
+      "name": "Adam",
+      "lastname": "Nowak",
+      "login": "qwe",
+      "password": "qwe"
+    }
+  ],
+  "groups": [
+    {
+      "id": 9204950,
+      "name": "znajomi",
+      "participants": [
+        {
+          "userId": 1076859,
+          "accepted": true,
+          "rejected": false
+        }
+      ],
+      "authorId": 1116220
+    },
+    {
+      "id": 6528531,
+      "name": "rodzina",
+      "participants": [
+        {
+          "userId": 1076859,
+          "accepted": false,
+          "rejected": true
+        }
+      ],
+      "authorId": 1116220
+    },
+    {
+      "id": 9204951,
+      "name": "xyz",
+      "participants": [
+        {
+          "userId": 1116220,
+          "accepted": true,
+          "rejected": false
+        }
+      ],
+      "authorId": 1076859
+    },
+    {
+      "id": 9156582,
+      "name": "123",
+      "participants": [
+        {
+          "userId": 1076859,
+          "accepted": false,
+          "rejected": false
+        }
+      ],
+      "authorId": 1116220
+    },
+    {
+      "id": 787578,
+      "name": "dsadasdasd",
+      "participants": [],
+      "authorId": 1116220
+    },
+    {
+      "id": 485793,
+      "name": "czxcxzcz",
+      "participants": [],
+      "authorId": 1116220
+    },
+    {
+      "id": 878540,
+      "name": "czxcxzcz123",
+      "participants": [],
+      "authorId": 1116220
+    },
+    {
+      "id": 884293,
+      "name": "dasdasdas123",
+      "participants": [],
+      "authorId": 1116220
+    }
+  ]
+}
